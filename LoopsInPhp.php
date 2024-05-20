@@ -1,5 +1,5 @@
 <?php
-//PHP Program to demonstrate the use of LOOPS
+//PHP Programs to demonstrate the use of LOOPS
 
 //1. While Loop
 $i = 0;
